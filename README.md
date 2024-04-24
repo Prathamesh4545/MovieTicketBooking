@@ -1,6 +1,6 @@
 # Movie-Ticket-Booking
 
-Hello there, buddies.I created the Movie-Ticket-Booking initiative. It is a basic project for which I can utilize JSP/Servlet, Java, and PostgreSQL technology. In this project, we created two login pages: one for administrators and one for users. Administrators can add movies, schedule movies, delete movies, and present movies in table format, while users may select movies, add seats, and book tickets in advance (silver, gold, and platinum).
+Hello, I created the Movie-Ticket-Booking initiative. It is a basic project for which I can utilize JSP/Servlet, Java, and PostgreSQL technology. In this project, we created two login pages: one for administrators and one for users. Administrators can add movies, schedule movies, delete movies, and present movies in table format, while users may select movies, add seats, and book tickets in advance (silver, gold, and platinum).
 where I created four database tables: one for administration, one for users, one for movies, and one for shows.
 
 # There Query's Are 
